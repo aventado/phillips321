@@ -1,0 +1,1 @@
+This repo is just a place i can store my scripts, having them all in one easy to find place for myself so that i can easily sync boxes and keep revision history. Should you wish to use this code please feel free to do so, it's open source.
